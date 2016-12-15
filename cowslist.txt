@@ -1,0 +1,25 @@
+Maggie,3
+Herman,7
+Betsy,9
+Oreo,6
+Moo Moo,3
+Milkshake,2
+Millie,5
+Lola,2
+Florence,2
+Henrietta,9
+Frank, 8
+Joe, 7
+Mikey, 2
+Jimmy, 3
+Johnny, 6
+Birch, 9
+Timmy, 4
+Tommy, 4
+Luke, 5
+Matthew, 6
+Phil, 7
+Chris, 7
+Bert, 3
+Al, 4
+Micah, 4
